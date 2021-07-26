@@ -1,5 +1,5 @@
-Radio Controlled Arduino Robot with Arm
-Creating a robot with arm using an Arduino Uno/Mega and Arduino Nano
+#Radio Controlled Arduino Robot with Arm                                                                                                                                          
+#Creating a robot with arm using an Arduino Uno/Mega and Arduino Nano
 
 Materials:
  - Arduino Uno/Mega
